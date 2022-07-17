@@ -11,5 +11,8 @@ This Project is a todo list project following along a youtuber to get a better u
 14/07/2022 - Was not delete button Not working.
            - Resolved (The Math Function was not written correctly while I was following the Tutorial. As a result the elements did not have a proper id and was not able to be deleted.)
 
+16/07/2022 - Drop Down menu was not filtering out proper elements in the array
+           - Resolved (Forgot to add a onChange on the Form.js)
+
 # License
 [Liscense](License)
