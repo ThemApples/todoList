@@ -1,5 +1,6 @@
 import React from "react";
 import App from "../App";
+import {BsPlus} from "react-icons/bs";
 
 const Form = ({setInputText, todos, setTodos,inputText,setStatus}) => {
     //Javascript function/code
@@ -30,7 +31,7 @@ const Form = ({setInputText, todos, setTodos,inputText,setStatus}) => {
           <button onClick = {submitTodoHandler} 
           className="todo-button" 
           type="submit">
-          <i className="fas fa-plus-square"></i>
+          <i className="fas fa-plus-square"><BsPlus/></i>
           </button>
           
           <div className="select">

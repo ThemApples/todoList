@@ -14,5 +14,9 @@ This Project is a todo list project following along a youtuber to get a better u
 16/07/2022 - Drop Down menu was not filtering out proper elements in the array
            - Resolved (Forgot to add a onChange on the Form.js)
 
+19/07/2022 - Icons now showing up. 
+           - Manually added the react js icon packages
+           - Reason for not using the whole packages is to reduce any additional storage wasted on storing icons not used.
+
 # License
 [Liscense](License)
